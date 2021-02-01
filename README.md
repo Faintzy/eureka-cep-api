@@ -28,6 +28,6 @@ Crie o banco de dados que configurou no .env
 $ yarn dev
 ```
 
-# Testes
+## Testes
 
 ### Para rodar o teste, use o comando <b>yarn jest</b>
